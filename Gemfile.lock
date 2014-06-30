@@ -43,6 +43,7 @@ GEM
     figaro (0.7.0)
       bundler (~> 1.0)
       rails (>= 3, < 5)
+    high_voltage (2.2.0)
     hike (1.2.3)
     i18n (0.6.9)
     jbuilder (2.1.1)
@@ -121,6 +122,7 @@ DEPENDENCIES
   bootstrap-sass (~> 2.3.2.2)
   coffee-rails (~> 4.0.0)
   figaro
+  high_voltage
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.1.2)
