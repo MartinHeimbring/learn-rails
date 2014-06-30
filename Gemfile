@@ -13,5 +13,6 @@ gem 'spring',        group: :development
 gem "figaro"
 gem 'bootstrap-sass', '~> 2.3.2.2'
 gem 'high_voltage'
+gem 'simple_form'
 
 
